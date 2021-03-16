@@ -169,14 +169,13 @@ h2{
 
 } */
 
-@media only screen and (max-width: 840px){
+/* @media only screen and (max-width: 840px){
     .main-nav{
         display: none;
     }
     .mobile-icon{
         display: inline-block;
         color: var(--btn);
-        /* float: right; */
         margin-top: 60px;
         margin-right: 20px;
     }
@@ -189,4 +188,4 @@ h2{
         display: block;
         margin-top: 10px;
     }
-}
+} */
